@@ -28,7 +28,12 @@ var price2 = 24;
 var totalPrice = price1 + price2;
 totalPrice = parseFloat(price1)
 console.log(totalPrice) */
-var gpa = "3.24";
-var gpa = parseInt(gpa)
-console.log(gpa)
+// var gpa = "3.24";
+// var gpa = parseInt(gpa)
+// console.log(gpa)
 
+/* var number01 = "60";
+var number02 = 0.5000001;
+var total = number01 + number02;
+var total = parseFloat(total)
+console.log(total) */

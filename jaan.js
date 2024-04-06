@@ -2,11 +2,10 @@
 
 /* Numeric Variable */
 
-vary + able = Variable
 var price = 13;
-var Address = 18;
+var  width = 18;
 var age = 24;
-var temperature = 38;
+var vhg = 38;
 var weight = 60;
 var money = 140; 
 var gf = 1;
@@ -26,17 +25,17 @@ var reallove = true;
 /* Variable Name And Reserver-Word */
 
 /* 1.Variable Name Connot Be Any Keyword. */
-var false = 29; 
+// var false = 29; 
 
 /* 2.Variable Name Has To Be IN One Word.No Space. */
-var my house = "los Angelas";
+// var my house = "los Angelas";
 
 /* 3.Variable Name Can Not have Quotation */
-var "Name" = "tonmoy bosunia" ;
+// var "Name" = "tonmoy bosunia" ;
 
 /* 4.Variable Name Can Not Starts With A Number But Con Ends With A Number. */
-var 99club = 15454;
-var club45 = 15454;
+// var 99club = 15454;
+// var club45 = 15454;
 
 /* 5.How To Use Long Name.Cannot Use (-).But Can Use (_) */
 var user_name = "Tonmoy" ;
