@@ -37,3 +37,45 @@ var number02 = 0.5000001;
 var total = number01 + number02;
 var total = parseFloat(total)
 console.log(total) */
+// var price = 17;
+// var price2 = "Eight Thousand Taka";
+// var tonmoy = true;
+// var priceOfRice = 55;
+// console.log(priceOfRice)
+// var rice = 55;
+// var dal = 30;
+// var salt = 2;
+// var water = 15;
+// var total = rice + dal + salt + water;
+// var total2 = rice - dal;
+// var total3 = dal * salt;
+// var total4 = water % salt;
+// console.log(total4)
+// var number01 = 2;
+// number01 = 5;
+// number01 = number01 + 5;
+// number01 --;
+// number01 *= 6;
+// console.log(number01)
+// var number01 = "30.20314";
+// var number02 = 10;
+// // number01 = parseInt(number01)
+// number01 = parseFloat(number01)
+// var total = number01 + number02;
+// console.log(total)
+// var price = '100';
+// var likeBanana = false;
+// console.log(typeof likeBanana)
+// var number01 = 0.1;
+// var number02 = 0.2;
+// var sum = number01 + number02;
+// sum = sum.toFixed(5) /* এটি ব্যাবহার করা হয় দশমিক এর পর কতঘর দেখাবে তার জন্য। */
+// // sum = parseFloat(sum)
+// // console.log(sum);
+// var tonmoy = "0.1";
+// var esha = 0.2;
+// tonmoy = parseFloat(tonmoy);
+// var total = tonmoy + esha;
+// total = total.toFixed(5)
+// total = parseFloat(total);
+// console.log(total)
