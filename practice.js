@@ -79,3 +79,52 @@ console.log(total) */
 // total = total.toFixed(5)
 // total = parseFloat(total);
 // console.log(total)
+
+
+// var price = 18;
+// console.log(price);
+// var myName = "Tonmoy";
+// console.log(myName);
+// var isHappy = true;
+// console.log(isHappy)
+// var orionPrice = 30;
+// var egg = 40;
+// var totalPrice = orionPrice + egg;
+// console.log(totalPrice);
+// var orionPrice = 20;
+// var money = 10;
+// var due = orionPrice - money;
+// console.log(due);
+// var perChoclet = 7;
+// var myneed = 14;
+// var totalmoney = perChoclet * myneed;
+// console.log(totalmoney)
+// var money = 500;
+// var perPlayer = 30;
+// var perPlayerMoney = money / perPlayer;
+// console.log(perPlayerMoney);
+// var tomatoPrice = 50;
+// tomatoPrice = 30;
+// console.log(tomatoPrice);
+// var tomatoPrice = 30;
+// tomatoPrice = tomatoPrice + 10;
+// console.log(tomatoPrice);
+// var tomatoPrice = 40;
+// tomatoPrice += 10;
+// console.log(tomatoPrice);
+// var age  = 19;
+// age++;
+// console.log(age)
+// var firstLine =  "jeni "
+// var lastName = "Bosunia"
+// var fullName = firstLine + lastName;
+// console.log(fullName)
+// var price1 = "40"
+// price1 = parseInt(price1)
+// var price2 = 30;
+// var total = price1 + price2;
+// console.log(total)
+// var gpa = "4.70634654654";
+// gpa = parseFloat(gpa);
+// gpa = gpa.toFixed(3)
+// console.log(gpa)
