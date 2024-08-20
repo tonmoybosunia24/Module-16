@@ -11,7 +11,7 @@ var age = 24;
 var vhg = 38;
 var weight = 60;
 var money = 140; 
-var gf = 1;
+var gf = 5;
 
 /*  String Variable */
 
